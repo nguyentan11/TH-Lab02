@@ -1,0 +1,8 @@
+D:\ClientxServer\ClientChat\bin\Debug\ClientChat.exe.config
+D:\ClientxServer\ClientChat\bin\Debug\ClientChat.exe
+D:\ClientxServer\ClientChat\bin\Debug\ClientChat.pdb
+D:\ClientxServer\ClientChat\obj\Debug\ClientChat.Form1.resources
+D:\ClientxServer\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+D:\ClientxServer\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+D:\ClientxServer\ClientChat\obj\Debug\ClientChat.exe
+D:\ClientxServer\ClientChat\obj\Debug\ClientChat.pdb

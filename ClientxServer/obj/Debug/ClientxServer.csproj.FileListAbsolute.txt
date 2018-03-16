@@ -1,0 +1,9 @@
+D:\ClientxServer\ClientxServer\bin\Debug\ClientxServer.exe.config
+D:\ClientxServer\ClientxServer\bin\Debug\ClientxServer.exe
+D:\ClientxServer\ClientxServer\bin\Debug\ClientxServer.pdb
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.csprojResolveAssemblyReference.cache
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.Form1.resources
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.Properties.Resources.resources
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.csproj.GenerateResource.Cache
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.exe
+D:\ClientxServer\ClientxServer\obj\Debug\ClientxServer.pdb
